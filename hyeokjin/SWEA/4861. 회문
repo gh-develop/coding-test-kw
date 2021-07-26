@@ -60,3 +60,25 @@ FIKQJTQDYLGMMWMEGRUZ
 #2 MWOIVVIOWM
 #3 TLMMHOOOHMMLT
 """
+
+T = int(input())
+
+for test_case in range(1, T + 1):
+    size, length = map(int, input().split())
+    matrix = []
+
+    for _ in range(size):
+        matrix.append(list(input()))
+    
+    for r in range(size):
+        for c in range(size - length + 1):
+            a = matrix[r][c : c + length] # 가로
+            b = [matrix[x][r] for x in range(c, c + length)] # 세로
+            print("".join(b))
+
+            if a == a[::-1]:
+                print("#{0} {1}".format(test_case, "".join(a)))
+                break
+            if b == b[::-1]:
+                print("#{0} {1}".format(test_case, "".join(b)))
+                break
