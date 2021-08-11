@@ -45,8 +45,8 @@
 
 ## __코테스터디 문제__
 8/11: 배열, Linked List
-사이트 주소: https://swexpertacademy.com/
-들어가는 방법: 로그인 -> Learn -> Course -> Programming Beginner -> Python programming 기초(2)
-초급: 리스트 튜플 - 연습문제4, 연습문제26
-중급: 리스트 튜플 - 연습문제2, 연습문제27 
-고급: 리스트 튜플 - 연습문제14, 연습문제24
+1. 사이트 주소: https://swexpertacademy.com/
+2. 들어가는 방법: 로그인 -> Learn -> Course -> Programming Beginner -> Python programming 기초(2)
+3. 초급: 리스트 튜플 - 연습문제4, 연습문제26
+4. 중급: 리스트 튜플 - 연습문제2, 연습문제27 
+5. 고급: 리스트 튜플 - 연습문제14, 연습문제24
