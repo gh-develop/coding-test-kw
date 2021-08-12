@@ -25,14 +25,14 @@
     
 1. 사이트 주소: https://swexpertacademy.com/
 2. 들어가는 방법: 로그인 -> Learn -> Course -> Programming Beginner -> Python programming 기초(2)
-3. 자료구조- 리스트, 튜플 문제풀이
+3. 자료구조- [리스트, 튜플 문제풀이](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDAe6AATw5UW6&subjectId=AWT4IN2a2nIDFAVT#)
 
 </div>
 </details>
 
 ||초급|중급|고급|
 |:---:|:---:|:---:|:---:|
-|8/11: 배열, Linked List|[연습문제4](https://swexpertacademy.com/main/learn/course/lectureProblemViewer.do), [연습문제26](https://swexpertacademy.com/main/learn/course/lectureProblemViewer.do)|[연습문제2](https://swexpertacademy.com/main/learn/course/lectureProblemViewer.do), [연습문제27](https://swexpertacademy.com/main/learn/course/lectureProblemViewer.do)|[연습문제14](https://swexpertacademy.com/main/learn/course/lectureProblemViewer.do), [연습문제24](https://swexpertacademy.com/main/learn/course/lectureProblemViewer.do)|
+|8/11: 배열, Linked List|연습문제4, 연습문제26|연습문제2, 연습문제27|연습문제14, 연습문제24|
 
 ---
 ## __참조사이트__
