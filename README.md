@@ -30,10 +30,10 @@
 1. 코테언어 문법 공부
 2. 자료구조 공부
 3. 시간복잡도, 공간복잡도 이해
-4. 알고리즘 난이도  
+4. 알고리즘 난이도별로 풀이  
 
-초급|중급|심화|
-|------|---|---|
+|초급|중급|심화|
+|:---:|:---:|:---:|
 |완전탐색|dfs|dp|
 |priority queue|bfs|graph|
 |recursion|binary search||
@@ -43,10 +43,21 @@
 |hash map|||
 |string|||
 
+---
 ## __코테스터디 문제__
-8/11: 배열, Linked List
+<details>
+<summary>8/11: 배열, Linked List</summary>
+<div markdown="1">
+
+<br/>
+    
 1. 사이트 주소: https://swexpertacademy.com/
 2. 들어가는 방법: 로그인 -> Learn -> Course -> Programming Beginner -> Python programming 기초(2)
-3. 초급: 리스트 튜플 - 연습문제4, 연습문제26
-4. 중급: 리스트 튜플 - 연습문제2, 연습문제27 
-5. 고급: 리스트 튜플 - 연습문제14, 연습문제24
+3. 자료구조- 리스트, 튜플 문제풀이
+
+</div>
+</details>
+
+||초급|중급|고급|
+|:---:|:---:|:---:|:---:|
+|8/11: 배열, Linked List|[연습문제4](https://swexpertacademy.com/main/learn/course/lectureProblemViewer.do), [연습문제26](https://swexpertacademy.com/main/learn/course/lectureProblemViewer.do)|[연습문제2](https://swexpertacademy.com/main/learn/course/lectureProblemViewer.do), [연습문제27](https://swexpertacademy.com/main/learn/course/lectureProblemViewer.do)|[연습문제14](https://swexpertacademy.com/main/learn/course/lectureProblemViewer.do), [연습문제24](https://swexpertacademy.com/main/learn/course/lectureProblemViewer.do)|
