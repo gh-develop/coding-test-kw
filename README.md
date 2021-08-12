@@ -16,6 +16,25 @@
     -  매주 정해진 문제 각자 풀어오고 일주일에 한번 문제풀이 리뷰
     -  매주 각 문제에 대한 이론을 정리하고 정리한 내용 간단하게 공유
 ---
+## __코테스터디 문제__
+<details>
+<summary>8/11: 배열, Linked List</summary>
+<div markdown="1">
+
+<br/>
+    
+1. 사이트 주소: https://swexpertacademy.com/
+2. 들어가는 방법: 로그인 -> Learn -> Course -> Programming Beginner -> Python programming 기초(2)
+3. 자료구조- 리스트, 튜플 문제풀이
+
+</div>
+</details>
+
+||초급|중급|고급|
+|:---:|:---:|:---:|:---:|
+|8/11: 배열, Linked List|[연습문제4](https://swexpertacademy.com/main/learn/course/lectureProblemViewer.do), [연습문제26](https://swexpertacademy.com/main/learn/course/lectureProblemViewer.do)|[연습문제2](https://swexpertacademy.com/main/learn/course/lectureProblemViewer.do), [연습문제27](https://swexpertacademy.com/main/learn/course/lectureProblemViewer.do)|[연습문제14](https://swexpertacademy.com/main/learn/course/lectureProblemViewer.do), [연습문제24](https://swexpertacademy.com/main/learn/course/lectureProblemViewer.do)|
+
+---
 ## __참조사이트__
 [나동빈님 유튜브](https://www.youtube.com/watch?v=qQ5iLNjpxSk)  
 [인프런 무료강의](https://www.inflearn.com/course/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B0%95%EC%A2%8C/)  
@@ -44,20 +63,3 @@
 |string|||
 
 ---
-## __코테스터디 문제__
-<details>
-<summary>8/11: 배열, Linked List</summary>
-<div markdown="1">
-
-<br/>
-    
-1. 사이트 주소: https://swexpertacademy.com/
-2. 들어가는 방법: 로그인 -> Learn -> Course -> Programming Beginner -> Python programming 기초(2)
-3. 자료구조- 리스트, 튜플 문제풀이
-
-</div>
-</details>
-
-||초급|중급|고급|
-|:---:|:---:|:---:|:---:|
-|8/11: 배열, Linked List|[연습문제4](https://swexpertacademy.com/main/learn/course/lectureProblemViewer.do), [연습문제26](https://swexpertacademy.com/main/learn/course/lectureProblemViewer.do)|[연습문제2](https://swexpertacademy.com/main/learn/course/lectureProblemViewer.do), [연습문제27](https://swexpertacademy.com/main/learn/course/lectureProblemViewer.do)|[연습문제14](https://swexpertacademy.com/main/learn/course/lectureProblemViewer.do), [연습문제24](https://swexpertacademy.com/main/learn/course/lectureProblemViewer.do)|
