@@ -18,7 +18,7 @@
 ---
 ## __코테스터디 문제__
 <details>
-<summary>8/11: 배열, Linked List</summary>
+<summary>세부내용</summary>
 <div markdown="1">
 
 <br/>
@@ -39,8 +39,8 @@
 ||초급|중급|고급|
 |:---:|:---:|:---:|:---:|
 |8/11: 배열, Linked List|연습문제4, 연습문제26|연습문제2, 연습문제27|연습문제14, 연습문제24|
-|스택, 큐 / 시간복잡도, 공간복잡도|||[시간초과](https://www.acmicpc.net/problem/11332)|
-|8/14: 스택, 큐|괄호검사|프린터, 주식 가격|기능 개발|
+|8/14: 스택, 큐 / 시간복잡도, 공간복잡도|괄호검사|[프린터](https://programmers.co.kr/learn/courses/30/lessons/42587), [주식 가격](https://programmers.co.kr/learn/courses/30/lessons/42584)|[시간초과](https://www.acmicpc.net/problem/11332), [기능 개발](https://programmers.co.kr/learn/courses/30/lessons/42586)|
+
 
 ---
 ## __참조사이트__
