@@ -18,7 +18,8 @@
 ---
 ## __코테스터디 문제__
 <details>
-<summary>8/11: 배열, Linked List</summary>
+<summary>8/11: 배열, Linked List
+8/14: 스택, 큐</summary>
 <div markdown="1">
 
 <br/>
@@ -27,13 +28,18 @@
 2. 들어가는 방법: 로그인 -> Learn -> Course -> Programming Beginner -> Python programming 기초(2)
 3. 자료구조- [리스트, 튜플 문제풀이](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDAe6AATw5UW6&subjectId=AWT4IN2a2nIDFAVT#)
 
+프로그래머스
+1. 사이트 주소: https://programmers.co.kr/
+2. 들어가는 방법: 로그인 -> 우측상단 ≡ 클릭 -> 코딩테스트 연습 -> 스택/큐
+3. 바로가기 링크: [리스트, 튜플 문제풀이](https://programmers.co.kr/learn/courses/30/parts/12081#)
 </div>
 </details>
 
 ||초급|중급|고급|
 |:---:|:---:|:---:|:---:|
 |8/11: 배열, Linked List|연습문제4, 연습문제26|연습문제2, 연습문제27|연습문제14, 연습문제24|
-|큐, 스택 / 시간복잡도, 공간복잡도|||[시간초과](https://www.acmicpc.net/problem/11332)|
+|스택, 큐 / 시간복잡도, 공간복잡도|||[시간초과](https://www.acmicpc.net/problem/11332)|
+|8/14: 스택, 큐|괄호검사|프린터, 주식 가격|기능 개발|
 
 ---
 ## __참조사이트__
