@@ -25,14 +25,14 @@
     
 1. 사이트 주소: https://swexpertacademy.com/
 2. 들어가는 방법: 로그인 -> Learn -> Course -> Programming Beginner -> Python programming 기초(2)
-3. 자료구조- [스택, 큐](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDAe6AATw5UW6&subjectId=AWT4IN2a2nIDFAVT#)
+3. 자료구조- [리스트, 튜플 문제풀이](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDAe6AATw5UW6&subjectId=AWT4IN2a2nIDFAVT#)
 
 8/14: 스택, 큐
 
 프로그래머스
 1. 사이트 주소: https://programmers.co.kr/
 2. 들어가는 방법: 로그인 -> 우측상단 ≡ 클릭 -> 코딩테스트 연습 -> 스택/큐
-3. 바로가기 링크: [리스트, 튜플 문제풀이](https://programmers.co.kr/learn/courses/30/parts/12081#)
+3. 바로가기 링크: [스택, 큐](https://programmers.co.kr/learn/courses/30/parts/12081#)
 </div>
 </details>
 
