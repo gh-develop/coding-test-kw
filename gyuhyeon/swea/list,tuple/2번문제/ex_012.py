@@ -1,5 +1,5 @@
 import sys
-sys.stdin = open('ex_012_input.txt', 'r')
+sys.stdin = open('2번문제/ex_012_input.txt', 'r')
 
 
 problem = 'Python is powerful... and fast; plays well with others; runs everywhere; is friendly & easy to learn; is Open.'

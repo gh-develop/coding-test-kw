@@ -40,8 +40,12 @@
 |:---:|:---:|:---:|:---:|
 |8/11: 배열, Linked List|연습문제4, 연습문제26|연습문제2, 연습문제27|연습문제14, 연습문제24|
 |8/14: 스택, 큐 / 시간복잡도, 공간복잡도|괄호검사|[프린터](https://programmers.co.kr/learn/courses/30/lessons/42587), [주식 가격](https://programmers.co.kr/learn/courses/30/lessons/42584)|[시간초과](https://www.acmicpc.net/problem/11332), [기능 개발](https://programmers.co.kr/learn/courses/30/lessons/42586)|
+<<<<<<< HEAD
 |8/18: 정렬/순차탐색, 이진탐색|[1427_소프트인사이드](https://www.acmicpc.net/problem/1427)|[통계학](https://www.acmicpc.net/problem/2108)]|고오급zone|
 
+=======
+|8/18: 정렬/순차탐색, 이진탐색|[1427_소프트인사이드](https://www.acmicpc.net/problem/1427)|[2108_통계학](https://www.acmicpc.net/problem/2108), [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)|[카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)|
+>>>>>>> 395c85c5de776bb837a3d9b6ea66d1fc1e3431a1
 
 ---
 ## __참조사이트__
