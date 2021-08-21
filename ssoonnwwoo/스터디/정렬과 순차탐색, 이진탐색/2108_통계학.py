@@ -20,29 +20,20 @@ N개의 수가 주어졌을 때, 네 가지 기본 통계값을 구하는 프로
 셋째 줄에는 최빈값을 출력한다. 여러 개 있을 때에는 최빈값 중 두 번째로 작은 값을 출력한다.
 넷째 줄에는 범위를 출력한다.
 '''
-def bubble_sort(l):
-    for i in range(len(l)):
-        swap =0
-        for j in range(len(l)-i-1):
-            if l[j] > l[j+1]:
-                l[j], l[j+1] = l[j+1], l[j]
-                swap +=1
-        if swap == 0:
-            break 
-    return l
+import sys
+input = sys.stdin.readline
 N = int(input())
-nums = [int(input()) for i in range(N)]
-freq = [nums.count(i) for i in nums]
-newnums = []
-maxfreq = max(freq)
-if freq.count(maxfreq) > 1:
-    for a in range(len(freq)):
-        if freq[a]==maxfreq:
-            newnums.append(freq[a])
-            freq[a] = 0
-    mode = newnums[1]
-else: mode = nums[freq.index(maxfreq)]
-print("{0:.0f}".format(sum(nums)//len(nums)))
-print(bubble_sort(nums)[(len(nums)-1)//2])
-print(mode)
-print(nums[-1]-nums[0])
+nums = sorted([int(input()) for i in range(N)])
+
+from collections import Counter#Counter 클래스는 리스트안 요소의 개수를 세어서 반환[(요소, 개수),(요소, 개수),(요소, 개수)...]
+freq=Counter(nums).most_common()#Counter클래스의 most_common메서드: 빈도가 가장 많은 것부터 정렬, 빈도가 같을경우 값이 작은 것부터 정렬
+if len(freq) > 1:#빈도 값이 여러개일때
+    if freq[0][1] == freq[1][1]:#최빈값이 여러개일때  
+        mode = freq[1][0]#두번째 최빈값
+    else:#최빈값이 한개일때
+        mode = freq[0][0]
+else : mode = freq[0][0]#빈도값이 한개일때
+print("{0:.0f}".format(sum(nums)/len(nums)))#산술평균
+print(nums[(len(nums)-1)//2])#중앙값
+print(mode)#최빈값
+print(nums[-1]-nums[0])#범위
