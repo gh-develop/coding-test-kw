@@ -40,10 +40,6 @@
 |:---:|:---:|:---:|:---:|
 |8/11: 배열, Linked List|연습문제4, 연습문제26|연습문제2, 연습문제27|연습문제14, 연습문제24|
 |8/14: 스택, 큐 / 시간복잡도, 공간복잡도|괄호검사|[프린터](https://programmers.co.kr/learn/courses/30/lessons/42587), [주식 가격](https://programmers.co.kr/learn/courses/30/lessons/42584)|[시간초과](https://www.acmicpc.net/problem/11332), [기능 개발](https://programmers.co.kr/learn/courses/30/lessons/42586)|
-<<<<<<< Updated upstream
-=======
-=======
->>>>>>> Stashed changes
 |8/18: 정렬/순차탐색, 이진탐색|[1427_소프트인사이드](https://www.acmicpc.net/problem/1427)|[2108_통계학](https://www.acmicpc.net/problem/2108), [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)|[카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)|
 |8/21: [해시 테이블](https://dev-kani.tistory.com/1), 재귀 호출|[수 찾기](https://www.acmicpc.net/problem/1920)|[완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576), [암호 만들기](https://www.acmicpc.net/problem/1759)|[회문](https://www.acmicpc.net/problem/17609)|
 
