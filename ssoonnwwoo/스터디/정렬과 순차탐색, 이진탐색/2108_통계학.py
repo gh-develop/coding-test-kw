@@ -33,6 +33,8 @@ if len(freq) > 1:#빈도 값이 여러개일때
     else:#최빈값이 한개일때
         mode = freq[0][0]
 else : mode = freq[0][0]#빈도값이 한개일때
+
+
 print("{0:.0f}".format(sum(nums)/len(nums)))#산술평균
 print(nums[(len(nums)-1)//2])#중앙값
 print(mode)#최빈값

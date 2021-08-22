@@ -1,12 +1,10 @@
-def insertion_sort(data):
-    for i in range(len(data)):
-        key = data[i]
-        for num in range(i, 0, -1):
-            if key < data[num-1]:
-                data[num-1], data[num] = data[num], data[num-1]
+def insertion_sort(list):
+    for i in range(len(list)):
+        for j in range(i, 0, -1):
+            if list[j] < list[j-1]:
+                list[j], list[j-1] = list[j-1], list[j]
             else:
                 break
-        print(data)
-    return data
+    return list
 
-insertion_sort([9,3,2,5])
+print(insertion_sort([9, 8, 7, 6, 5, 4, 3, 2, 1]))

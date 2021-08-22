@@ -15,9 +15,9 @@ def selection_sort_reverse(l):
     return l
 
 
-N = list(map(int,input()))
-selection_sort_reverse(N)
-N = list(map(str, N))
-N = ''.join(N)
+N = list(map(int,input()))#[4,3,2,1]
+selection_sort_reverse(N)#[4,3,2,1]
+N = list(map(str, N))#['4', '3', '2', '1']
+N = ''.join(N)#4321
 print(N)
 
